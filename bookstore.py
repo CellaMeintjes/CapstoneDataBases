@@ -5,7 +5,7 @@ import sqlite3
 from prettytable import PrettyTable
 
 # Specify the absolute path to the directory and the database file
-db_path = 'c:/Users/mloui/Dropbox/MM23060008708/2 - Introduction to Software Engineering/L2T12 - SQLite/python_programming_db'
+db_path = 'python_programming_db'
 
 
 # Connect to database
